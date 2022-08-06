@@ -1,2 +1,2 @@
 # aula-html
- Repositorio destinado ao estudo de HTML e CSS para as aulas do curso de Python para Desenvolvimento Web
+ Estudo de HTML e CSS do curso de Python
